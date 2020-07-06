@@ -6,5 +6,6 @@ public class Hello {
 		System.out.println("abcxxxx");
 		System.out.println("xxx");
 		System.out.println("hotfix...");
+		System.out.println("hotfix2");
 	}
 }
