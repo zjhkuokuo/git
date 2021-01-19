@@ -1,2 +1,2 @@
-config-server test
-  version=2
+config:
+  info: "master branch web:http://localhost:3344/master/springcloug-config.yml version=1"
