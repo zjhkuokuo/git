@@ -1,2 +1,2 @@
-config配置中心测试:
-  测试版本：version=1
+config-server test
+  version=1
